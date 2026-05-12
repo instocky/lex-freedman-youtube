@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Виртуальное окружение
+venv/
+env/
+
+# Переменные окружения
+.env
+
+# База данных
+data/
+
+# Логи
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uvicorn / pytest
+.pytest_cache/
+htmlcov/
+.coverage
+
+# User
+notes.md
+project_context.txt
+collect_context.py
+tmp/
+tree_app.py
+.ruff_cache
+commits.*
