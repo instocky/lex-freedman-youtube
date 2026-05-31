@@ -42,3 +42,4 @@ tmp/
 tree_app.py
 .ruff_cache
 commits.*
+.serena/
